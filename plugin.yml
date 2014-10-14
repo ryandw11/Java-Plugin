@@ -1,0 +1,11 @@
+name: EnderCraftMC
+main: me.ryandw11.EnderCraftMC.Main
+version:5
+author: ryandw11
+
+commands:
+    staff:
+        description: Shows the staff!
+    ec:
+        description: The command
+    
